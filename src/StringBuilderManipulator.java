@@ -1,6 +1,3 @@
-import com.sun.deploy.util.StringUtils;
-import com.sun.javafx.tk.ScreenConfigurationAccessor;
-
 import java.util.Scanner;
 
 public class StringBuilderManipulator {
